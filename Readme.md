@@ -24,7 +24,7 @@ This project aims to analyze the relationship between UV index data and skin can
 
        cd Skin_cancer_UV_index
 
-3. **Install Dependencies**
+2. **Install Dependencies**
 
     - Install the required Python libraries using pip. Create a requirements.txt file if you don't have one, with the following content:
 
@@ -42,14 +42,14 @@ This project aims to analyze the relationship between UV index data and skin can
 
         pip install -r requirements.txt
 
-4. **Get API key**
+3. **Get API key**
    
  - Get API key from visual crossing
  - Create a .env file
  - Add the API key as UV_API_KEY='Your API key' to the file
 
 
-5. **Run the Script**
+4. **Run the Script**
 
     - Execute the script using Python:
 
