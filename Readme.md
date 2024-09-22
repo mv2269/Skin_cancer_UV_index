@@ -42,7 +42,14 @@ This project aims to analyze the relationship between UV index data and skin can
 
         pip install -r requirements.txt
 
-4. **Run the Script**
+4. **Get API key**
+   
+ - Get API key from visual crossing
+ - Create a .env file
+ - Add the API key as UV_API_KEY='Your API key' to the file
+
+
+5. **Run the Script**
 
     - Execute the script using Python:
 
