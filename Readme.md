@@ -1,7 +1,7 @@
 # Skin Cancer UV Index Analysis
 
 ## Description
-This project aims to analyze the relationship between UV index data and skin cancer rates across various states in the United States. The data collected through web scraping and API requests will be used to explore potential correlations between UV exposure and skin cancer incidence, ultimately contributing to public awareness regarding skin health and UV protection.
+This project aims to analyze the relationship between UV index data and skin cancer rates across various states in the United States. The data collected through web scraping and API requests will be used to explore potential correlations between UV exposure and skin cancer incidence, ultimately contributing to public awareness regarding skin health and UV protection.This project has enormous potential, we can futher download csv files from https://gco.iarc.who.int/today/en/dataviz/tables, to get cancer data by country and futher compare it to pollution levels as well as UV index levels.
 
 ## Data Sources
 - **Skin Cancer Rates**: The data on skin cancer rates by state was sourced from [QuoteWizard](https://quotewizard.com/news/skin-cancer-rates-by-state). This website was chosen due to its comprehensive and updated statistics on skin cancer rates, which provide essential insights into the health implications of UV exposure.
